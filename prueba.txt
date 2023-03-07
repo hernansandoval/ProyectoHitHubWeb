@@ -1,8 +1,2 @@
 Hola que tal
-<<<<<<< HEAD
 hhhhh
-gollll
-=======
-yo soy yo 
-ola
->>>>>>> Rama
