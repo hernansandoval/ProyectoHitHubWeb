@@ -1,6 +1,0 @@
-comandos epicos
-
-git add
-git commit
-git branch
-git status
